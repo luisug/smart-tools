@@ -1,0 +1,89 @@
+docs_list_title: Smart Tools
+
+docs:
+
+#top level links
+- title: What's new in Smart Tools
+  url: /en-us/smart-tools/whats-new.html
+- title: Known issues
+  url: /en-us/smart-tools/smart-tools-known-issues.html
+- title: Technical Security Overview for Citrix Smart Tools
+  url: /en-us/smart-tools/technical-security-overview.html
+- title: Third Party Notices
+  url: /en-us/smart-tools/third-party-notices.html
+- title: Smart Tools support resources
+  url: /en-us/smart-tools/help-and-support.html
+
+
+# folders
+- title: System requirements
+  subfolderlist:
+    - title: Smart Tools Agent and connectivity requirements
+      url: /en-us/smart-tools/system-requirements/connectivity-requirements.html
+    - title: Supported web browsers
+      url: /en-us/smart-tools/system-requirements/supported-web-browsers.html
+    - title: Smart Check requirements
+      url: /en-us/smart-tools/system-requirements/check-requirements.html
+    - title: Smart Scale requirements
+      url: /en-us/smart-tools/system-requirements/scale-requirements.html
+
+- title: Install and configure
+  subfolderlist:
+    - title: Install or remove the Citrix Smart Tools Agent
+      url: /en-us/smart-tools/smart-tools-agent/install-remove-smart-tools-agent.html
+    - title: Use the Citrix Smart Tools Agent behind a proxy
+      url: /en-us/smart-tools/smart-tools-agent/use-agent-with-proxy.html
+    - title: Add a Site to Smart Tools
+      url: /en-us/smart-tools/install-configure/add-site.html
+    - title: Discover a Site in Smart Tools
+      url: /en-us/smart-tools/install-configure/discover-site.html
+    - title: View or modify Site details
+      url: /en-us/smart-tools/install-configure/view-modify-site.html
+
+- title: Check Site health
+  subfolderlist:
+    - title: Smart Check Quick Start Guide
+      url: /en-us/smart-tools/get-started/quick-start.html
+    - title: Citrix health checks
+      url: /en-us/smart-tools/checks/about-health-checks.html
+    - title: Perform health checks
+      url: /en-us/smart-tools/checks/perform-health-checks.html
+    - title: Add Site components to Smart Tools
+      url: /en-us/smart-tools/checks/add-site-components.html
+    - title: View reports from health checks
+      url: /en-us/smart-tools/checks/view-reports-health-checks.html
+    - title: Manage Smart Check alerts and notifications
+      url: /en-us/smart-tools/checks/manage-alerts-notification-checks.html
+    - title: Upload Site diagnostics to Citrix Technical Support
+      url: /en-us/smart-tools/checks/upload-site-diagnostics-citrix-support.html
+
+- title: Scale Delivery Groups
+  subfolderlist:
+    - title: Smart Scale overview
+      url: /en-us/smart-tools/scale/about-scale.html
+    - title: Manage Delivery Group capacity with Smart Scale
+      url: /en-us/smart-tools/scale/manage-delivery-group-capacity.html
+
+- title: Troubleshoot
+  subfolderlist:
+    - title: Troubleshoot agent and Site connectivity issues
+      url: /en-us/smart-tools/troubleshooting/troubleshoot-agent-connectivity-issues.html
+    - title: Troubleshoot Site onboarding issues
+      url: /en-us/smart-tools/troubleshooting/troubleshoot-site-onboarding-issues.html
+    - title: Troubleshoot removing Sites from Smart Tools
+      url: /en-us/smart-tools/troubleshooting/troubleshoot-removing-sites.html
+    - title: Troubleshoot Citrix Checks
+      url: /en-us/smart-tools/troubleshooting/check-issues.html
+    - title: Troubleshoot Smart Scale events
+      url: /en-us/smart-tools/troubleshooting/troubleshoot-smart-scale-events.html
+
+- title: REST API
+  subfolderlist:
+      - title: API Overview
+        url: /en-us/smart-tools/rest-api/api-overview.html
+      - title: Authentication API
+        url: /en-us/smart-tools/rest-api/authentication-api.html
+      - title: Site API
+        url: /en-us/smart-tools/rest-api/site-api.html
+      - title: Smart Scale API
+        url: /en-us/smart-tools/rest-api/smart-scale-api.html
