@@ -1,7 +1,7 @@
 ---
 layout: doc
 ---
-# Smart Tools Docs
+### Smart Tools Docs
 
 > **Important:**
 > This article includes references to Smart Scale which will reach End of Life on **May 31, 2019**. For more information about Smart Scale deprecation, see the following articles:
