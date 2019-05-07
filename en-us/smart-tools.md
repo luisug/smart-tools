@@ -1,7 +1,7 @@
 ---
 layout: doc
 ---
-## Smart Tools
+### Smart Tools
 
 > **Important:**
 >
