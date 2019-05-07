@@ -1,15 +1,13 @@
 ---
 layout: doc
 ---
-# Smart Tools Docs
+## Smart Tools Docs
 
 > **Important:**
->
 > This article includes references to Smart Scale which will reach End of Life on **May 31, 2019**. For more information about Smart Scale deprecation, see the following articles:
 >
 > *  [What's New in Smart Tools](https://docs.citrix.com/en-us/smart-tools/whats-new.html)
 > *  [Deprecation](https://docs.citrix.com/en-us/citrix-virtual-apps-desktops/whats-new/removed-features.html) in Virtual Apps and Desktops
-
 Smart Tools is a service in Citrix Cloud that includes **Smart Check** and **Smart Scale**. These features help you stay on top of the health of your on-premises Virtual Apps and Desktops Site and control the costs associated with accommodating user demand for applications and desktops within your Site.
 
 Smart Check provides the following benefits:
