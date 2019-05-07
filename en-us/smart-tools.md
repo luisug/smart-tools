@@ -1,6 +1,11 @@
 ---
 layout: doc
 ---
+
+
+
+
+
 # Smart Tools Docs
 
 > **Important:**
